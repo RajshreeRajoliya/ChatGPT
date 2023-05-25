@@ -3,7 +3,7 @@
 const App = () =>{
   return (
     <div className="app">
-     <section className="sidde-bar">
+     <section className="side-bar">
      <button>+ New chat</button>
      <ul className="history"></ul>
      <nav>
